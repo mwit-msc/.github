@@ -44,5 +44,5 @@ Student's central digital platform for life at MWIT.
 </div>
 
 <a href="https://www.mwit.ac.th">
-  <img src="https://raw.githubusercontent.com/mwit-msc/.github/main/assets/mwit-text.svg" height="48" alt="Mahidol Wittayanusorn School" />
+  <img src="https://raw.githubusercontent.com/mwit-msc/.github/main/mwit-text.svg" height="48" alt="Mahidol Wittayanusorn School" />
 </a>
